@@ -1,7 +1,7 @@
 
 # Dashboard Interactif : Analyse des Expériences Passagers de British Airways
 
-Ce tableau de bord interactif permet d’analyser les avis des passagers sur les vols opérés par **British Airways**, avec un focus sur les performances de la compagnie aérienne selon des critères de satisfaction.
+Ce tableau de bord interactif realisé sur Tableau Public permet d’analyser les avis des passagers sur les vols opérés par **British Airways**, avec un focus sur les performances de la compagnie aérienne selon des critères de satisfaction.
 
 L’objectif est d’identifier les tendances de l’expérience client et d’explorer les axes d’amélioration potentiels en fonction des caractéristiques des vols et des passagers.
 
