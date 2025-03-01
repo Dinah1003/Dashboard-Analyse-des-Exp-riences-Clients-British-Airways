@@ -5,6 +5,10 @@ Ce tableau de bord interactif realisé sur Tableau Public permet d’analyser le
 
 L’objectif est d’identifier les tendances de l’expérience client et d’explorer les axes d’amélioration potentiels en fonction des caractéristiques des vols et des passagers.
 
+## Visualisation Interactive  
+🔗 [Accéder au Dashboard Interactif sur Tableau Public](https://public.tableau.com/views/DashboardExprienceClientBritishAirways/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Les métriques utilisées
 
 L’analyse repose sur cinq indicateurs clés de l’expérience passager  : 
