@@ -27,16 +27,25 @@ L’interactivité de ce dashboard permet d’explorer et de visualiser les perf
 - Le modèle d’avion :  Analyse des différences de satisfaction entre les appareils utilisés
 - Les zones géographiques  desservies : Étude des variations selon les destinations desservies par British Airways.
 
-## Portée et insights potentiels
+## Les Premières Pistes d’Analyse
 
-Ce tableau de bord permet d’extraire plusieurs insights clés pour évaluer et améliorer l’expérience client chez British Airways :
+Pour exploiter pleinement les données disponibles et identifier des leviers d’amélioration pour British Airways, plusieurs questions clés peuvent être posées en s'appuyant sur ce tableau de bord.
 
-**Performance des différents modèles d’avions** : Identification des appareils offrant la meilleure expérience client en fonction des avis des passagers. Ces données peuvent orienter la compagnies vers des modèles mieux perçus et offrant une meilleure expérience client.
+1. **Évolution des performances dans le temps**
+   
+- Comment la satisfaction des passagers a-t-elle évolué au fil des mois/années ?
+- Quels changements (nouvelles politiques, améliorations de service, modernisation des avions) ont eu un impact positif ou négatif sur la satisfaction ?
+- Les périodes de forte affluence (été, fêtes de fin d’années, etc.) influencent-elles la satisfaction client ?
 
-**Différences de satisfaction selon la classe de voyage**  : Analyse des écarts entre l’économie, le premium, la business et la first class. 
+2. **Satisfaction selon les zones géographiques**
+   
+- Existe-t-il des différences significatives de satisfaction entre les vols court-courriers, moyen-courriers et long-courriers ?
+- Quels sont les itinéraires (par continent) les mieux et les moins bien notés, et quelles sont les raisons sous-jacentes ?
 
-**Évaluation des services dans le temps** : Observation des tendances et de l’impact des améliorations ou des changements de politique sur la satisfaction des passagers. Cela permet d’évaluer si les efforts de la compagnie ont eu un effet positif ou si des ajustements restent nécessaires.
-
-**Comparaison des niveaux de satisfaction selon les zones géographiques desservies**. Cet insight aide à identifier d’éventuels problèmes liés aux services spécifiques de certaines routes ou aéroports.
-
-Ces analyses offrent une vision stratégique pour British Airways en mettant en évidence les axes d’amélioration et les points forts à valoriser, facilitant ainsi la prise de décision pour optimiser l’expérience client et renforcer la compétitivité de la compagnie.
+3. **Différence de satisfaction selon la classe de voyage et les types de voyageurs**
+   
+- Quel est le niveau de satisfaction moyen pour chaque classe de voyage (économie, premium, business, first) ?
+- Quels aspects sont les plus fréquemment cités comme points positifs et négatifs pour chaque classe ?
+- Existe-t-il des écarts significatifs de satisfaction entre les classes pour un même vol ou un même itinéraire ?
+- La satisfaction varie-t-elle en fonction du type de passager (voyage en solo, en couple, en famille, ou pour affaires) ?
+- Quels sont les besoins et attentes spécifiques de chaque typologie de passager, et comment British Airways pourrait-elle adapter ses services en conséquence ?
